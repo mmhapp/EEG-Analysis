@@ -7,13 +7,14 @@ MATLAB program for EEG analysis, as well as example analysis outputs. Analysis i
 ERP analysis was conducted to evaluate brain responses to auditory stimuli. ERPs were averaged separately for conditions where the subject reported being aware of a tone and where no tone was present. Results of ERP analysis are presented in figures `ERPs.jpg`, `IPs.jpg`, and `Statistics.txt`. Statistical analysis is based on t-test to compare brain responses during auditory awareness versus no auditory awareness. More closely, comparison is done between EEG mean amplitudes of a condition, where participant was aware of a tone, and a condition, where was no tone. Results are following:
 
 `h = 0`
+
 `p = 0.0831`
 
-tstat = -2.5620
+`tstat = -2.5620`
 
-ci = [-0.9652, 0.1043]
+`ci = [-0.9652, 0.1043]`
 
-df = 3
+`df = 3`
 
 `sd = 0.3361`
 
