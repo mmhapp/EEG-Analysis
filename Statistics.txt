@@ -1,0 +1,30 @@
+>> [h,p,ci,stats] = ttest(mi_noise_aware_tone_aware,mi_noise_aware_no_tone)
+
+h =
+
+  single
+
+     0
+
+
+p =
+
+  single
+
+    0.0831
+
+
+ci =
+
+  1×2 single row vector
+
+   -0.9652    0.1043
+
+
+stats = 
+
+  struct with fields:
+
+    tstat: -2.5620
+       df: 3
+       sd: 0.3361
