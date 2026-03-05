@@ -2,7 +2,9 @@
 
 MATLAB program for EEG analysis, as well as example analysis outputs. Analysis includes EEG preprocessing, labeling, epoching, ICA, ERP analysis, and a paired paired t-test. EEG signals are recorded in an awareness experiment involving auditory stimuli, and analysis is done to investigate the neural correlates of auditory awareness, specifically the differences in brain responses between aware and unaware perception of stimuli.
 
-## Paired t-test results
+---
+
+## Results for Paired t-test
 
 ERP analysis was conducted to evaluate brain responses to auditory stimuli. ERPs were averaged separately for conditions where the subject reported being aware of a tone and where no tone was present. Results of ERP analysis are presented in figures `ERPs.jpg`, `IPs.jpg`, and `Statistics.txt`. Statistical analysis is based on t-test to compare brain responses during auditory awareness versus no auditory awareness. More closely, comparison is done between EEG mean amplitudes of a condition, where participant was aware of a tone, and a condition, where was no tone. Results are following:
 
