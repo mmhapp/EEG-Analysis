@@ -20,4 +20,4 @@ ERP analysis was conducted to evaluate brain responses to auditory stimuli. ERPs
 
 `sd = 0.3361`
 
-Thus, null hypothesis h—there is no difference in mean EEG amplitude between conditions—is not rejected. P-value, `p`, is not below the standard threshold, `0.05`, indicating that the results are not statistically significant, though they approach significance, likely due to the small number of subjects. The t-value tstat of `-2.5620` suggests that the mean amplitude in the tone awareness condition is lower than in the no-tone condition.
+Thus, null hypothesis `h` — there is no difference in mean EEG amplitude between conditions — is not rejected. P-value, `p`, is not below the standard threshold, `0.05`, indicating that the results are not statistically significant, though they approach significance, likely due to the small number of subjects. The t-value tstat of `-2.5620` suggests that the mean amplitude in the tone awareness condition is lower than in the no-tone condition.
